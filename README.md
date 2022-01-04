@@ -3,7 +3,7 @@
 - 👩‍💻 My name is Daryl, and I am a full stack software engineer.
 - 🤖 Before transitioning into tech I was a public school math teacher in NYC.
 - 🔭 I’m currently working on a personal project and learning Data Structures & Algorithms.
-- 📫 How to reach me: darylc.ramirez@gmail.com
+- 📫 How to reach me: darylc.ramirez@gmail.com or linkedin.com/in/darylramirez/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a native New Yorker, and, as such, I do not have a driver's license!
 
