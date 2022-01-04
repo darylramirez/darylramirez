@@ -6,7 +6,7 @@
 - 📫 How to reach me: darylc.ramirez@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a native New Yorker, and, as such, I do not have a driver's license!
-- 
+
 
 <!--
 **darylramirez/darylramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
