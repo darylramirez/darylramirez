@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a personal project and learning Data Structures & Algorithms.
 - 📫 How to reach me: darylc.ramirez@gmail.com or https://www.linkedin.com/in/darylramirez/
 - 😄 Pronouns: she/her
-- When I'm not coding, I'm looking for new vegan recipes 🌱  or attempting to train my cat to high-five.
+- When I'm not coding, I'm looking for new vegan recipes 🌱  or attempting to train my cat to high-five 🐈.
 - ⚡ Fun fact: I am a native New Yorker, and, as such, I do not have a driver's license!
 - ⚙️ Languages & Tools:
 
